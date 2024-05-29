@@ -1,27 +1,49 @@
 ![[arc.jpg]]
 # Notes
-Arc has recived threating letters from someone.
+Arc has received threating letters from someone.
 His roommate is droop.
 
-# Spells to keep an eye out for
+# Spells 
+## Cantrips
+- [ ] mind silver
+- [ ] Prestidigitation
+- [ ] message
 
 ## Level 1
-- [ ] shield
+- [ ] charm person
+- [ ] find familiar
+- [ ] sleep
+- [ ] mage armor
 - [ ] fog cloud
+- [ ] hideous laughter
+- [ ] shield
 - [ ] Absorb elements
 - [ ] alarm
+- [ ] feather fall
 - [ ] Detect magic
 - [ ] floating disk
 - [ ] chromatic orb
+- [ ] grease
 
 ## Level 2
 - [ ] Suggestion
 - [ ] Web
+- [ ] Misty Step
+- [ ] Invisibility
 - [ ] Mirror Image
 - [ ] Phantasmal Force
 - [ ] Augury
+- [ ] Levitate
+- [ ] Maximilian’s Earthen Grasp
 ## Level 3
 - [ ] Hypnotic pattern
+- [ ] Clairvoyance
+- [ ] Counterspell
+- [ ] Dispel Magic
+- [ ] Enemies Abound
+- [ ] Fly
+- [ ] Leomund’s Tiny Hut
+- [ ] summon undead
 
 
 # Character backstory for colby's game
@@ -37,6 +59,7 @@ His roommate is droop.
 - Loves food, eats anything he comes across
 - Will sleep in the inn whenever he can, complains if he has to sleep outside.
 - Small guy.
+- Childhood friend with Rob's character's son.
 
 ## Colby DM TLDR
 - Wants to get more spells
