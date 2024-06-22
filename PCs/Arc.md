@@ -10,40 +10,62 @@ His roommate is droop.
 - [ ] message
 
 ## Level 1
-- [ ] charm person
-- [ ] find familiar
-- [ ] sleep
-- [ ] mage armor
-- [ ] fog cloud
-- [ ] hideous laughter
-- [ ] shield
+- [x] charm person
+- [x] find familiar
+- [x] sleep
+- [x] mage armor
+- [x] fog cloud
+- [x] hideous laughter
+- [ ] **shield**
 - [ ] Absorb elements
 - [ ] alarm
 - [ ] feather fall
-- [ ] Detect magic
+- [ ] **Detect magic**
 - [ ] floating disk
 - [ ] chromatic orb
 - [ ] grease
 
 ## Level 2
 - [ ] Suggestion
-- [ ] Web
-- [ ] Misty Step
-- [ ] Invisibility
+- [ ] **Web**
+- [ ] **Misty Step**
+- [ ] **Invisibility**
 - [ ] Mirror Image
 - [ ] Phantasmal Force
-- [ ] Augury
+- [ ] **Augury**
 - [ ] Levitate
+- [ ] hold person
 - [ ] Maximilian’s Earthen Grasp
 ## Level 3
-- [ ] Hypnotic pattern
-- [ ] Clairvoyance
-- [ ] Counterspell
+- [ ] **Hypnotic pattern**
+- [ ] **Clairvoyance**
+- [ ] **Counterspell**
 - [ ] Dispel Magic
 - [ ] Enemies Abound
 - [ ] Fly
-- [ ] Leomund’s Tiny Hut
+- [ ] **Leomund’s Tiny Hut**
 - [ ] summon undead
+- [ ] sleet storm
+
+## Level 4
+- [ ] **Sickening Radiance**
+- [ ] Wall of fire
+- [ ] **Summon greater demon**
+- [ ] arcane eye
+
+## Level 5
+- [ ] wall of force
+- [ ] Telekinesis
+- [ ] **Transmute Rock**
+- [ ] Animate objects
+- [ ] scrying
+- [ ] contact other plane
+
+## OBE
+- [ ] forcecage
+- [ ] Maze
+- [ ] otto's irresistible dance
+- [ ] true polymorph
 
 
 # Character backstory for colby's game

@@ -1,0 +1,1 @@
+Had a magic spice seasoning, magic tent, and a good luck rock. He said he would save the magic rock for me
